@@ -1,0 +1,15 @@
+D:\Software\WinConsole\CelilCavus.DependencyInjection\bin\Debug\net7.0\CelilCavus.DependencyInjection.exe
+D:\Software\WinConsole\CelilCavus.DependencyInjection\bin\Debug\net7.0\CelilCavus.DependencyInjection.deps.json
+D:\Software\WinConsole\CelilCavus.DependencyInjection\bin\Debug\net7.0\CelilCavus.DependencyInjection.runtimeconfig.json
+D:\Software\WinConsole\CelilCavus.DependencyInjection\bin\Debug\net7.0\CelilCavus.DependencyInjection.dll
+D:\Software\WinConsole\CelilCavus.DependencyInjection\bin\Debug\net7.0\CelilCavus.DependencyInjection.pdb
+D:\Software\WinConsole\CelilCavus.DependencyInjection\obj\Debug\net7.0\CelilCavus.DependencyInjection.csproj.AssemblyReference.cache
+D:\Software\WinConsole\CelilCavus.DependencyInjection\obj\Debug\net7.0\CelilCavus.DependencyInjection.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software\WinConsole\CelilCavus.DependencyInjection\obj\Debug\net7.0\CelilCavus.DependencyInjection.AssemblyInfoInputs.cache
+D:\Software\WinConsole\CelilCavus.DependencyInjection\obj\Debug\net7.0\CelilCavus.DependencyInjection.AssemblyInfo.cs
+D:\Software\WinConsole\CelilCavus.DependencyInjection\obj\Debug\net7.0\CelilCavus.DependencyInjection.csproj.CoreCompileInputs.cache
+D:\Software\WinConsole\CelilCavus.DependencyInjection\obj\Debug\net7.0\CelilCavus.DependencyInjection.dll
+D:\Software\WinConsole\CelilCavus.DependencyInjection\obj\Debug\net7.0\refint\CelilCavus.DependencyInjection.dll
+D:\Software\WinConsole\CelilCavus.DependencyInjection\obj\Debug\net7.0\CelilCavus.DependencyInjection.pdb
+D:\Software\WinConsole\CelilCavus.DependencyInjection\obj\Debug\net7.0\CelilCavus.DependencyInjection.genruntimeconfig.cache
+D:\Software\WinConsole\CelilCavus.DependencyInjection\obj\Debug\net7.0\ref\CelilCavus.DependencyInjection.dll
